@@ -2,12 +2,22 @@
 
 Win NPM PATH
 
-# npm install -g “name”
+# npm install “name” -g
 C:\Users\XXX\AppData\Roaming\npm
 
+
+express
+1. http://expressjs.com
+2. https://github.com/expressjs/express
+3. http://www.expressjs.com.cn
 
 restify
 1. http://blog.fens.me/nodejs-restify/
 2. https://segmentfault.com/a/1190000000369308
 3. https://github.com/restify/node-restify
 4. http://restify.com
+
+
+
+全局变量
+__dirname      //正在执行的脚本所在目录
