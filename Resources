@@ -21,3 +21,8 @@ restify
 
 全局变量
 __dirname      //正在执行的脚本所在目录
+
+
+package.json
+1. https://docs.npmjs.com/files/package.json
+2. https://docs.npmjs.com/misc/semver
