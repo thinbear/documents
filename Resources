@@ -20,8 +20,10 @@ restify
 
 Mongodb
 
-
-
+1. "C:\Program Files\MongoDB\Server\3.2\bin\mongod.exe" -dbpath E:\Mongodb\XXX\data
+2. mongo
+3. use XXX
+4. db.yyy.Method(insert/update/remove/save/find)
 全局变量
 __dirname      //正在执行的脚本所在目录
 
