@@ -18,6 +18,9 @@ restify
 4. http://restify.com
 
 
+Mongodb
+
+
 
 全局变量
 __dirname      //正在执行的脚本所在目录
@@ -26,3 +29,8 @@ __dirname      //正在执行的脚本所在目录
 package.json
 1. https://docs.npmjs.com/files/package.json
 2. https://docs.npmjs.com/misc/semver
+
+
+执行Node应用
+npm install // 主要是在工程路径下安全package.json中的第三方应用
+node xxx.js // 启动 Node 应用
