@@ -26,6 +26,8 @@ Mongodb
 4. db.yyy.Method(insert/update/remove/save/find)
 全局变量
 __dirname      //正在执行的脚本所在目录
+'use strict';  //严格模式
+const          //常量修饰符
 
 
 package.json
